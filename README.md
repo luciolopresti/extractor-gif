@@ -1,6 +1,6 @@
 # extractor-gif
 Um script para extrair "frames" de um GIF.
-O formato GIF é composto por várias imagens, que juntas formam uma espécie de um "mini vídeo". E a intenção deste script, é extrair estas imagens.
+O formato GIF é composto por várias imagens, que juntas formam uma espécie de um "mini vídeo". E a intenção deste script, é extrair estas imagens, que são chamadas de "frames".
 
 # Antes de executar este script, é necessário instalar a dependência deste script.
 Para instalar a dependência do script, execute o comando:
